@@ -14,7 +14,7 @@ I am a passionate **data analyst** and an aspiring **data scientist**, excited t
   <a href="https://www.linkedin.com/in/hardik-bajiya-0b9662270" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a href="https://github.com/bajiyahardik/Hardik_Bajiya" target="_blank">
+  <a href="https://github.com/bajiyahardik" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   </a>
 </p>
