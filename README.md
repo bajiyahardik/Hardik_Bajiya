@@ -28,9 +28,10 @@ I am a passionate **data analyst** and an aspiring **data scientist**, excited t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" width="60" height="60"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Plotly_logo.png" alt="Plotly" width="60" height="60"/>
+ <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="70" height="70"/> </a>
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="60" height="60"/> </a> 
+<a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="60" height="60"/> </a>
+
 </p>
 
