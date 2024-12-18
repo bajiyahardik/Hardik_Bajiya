@@ -4,7 +4,7 @@ I am a passionate **data analyst** and an aspiring **data scientist**, excited t
 
 - 🌱 I’m currently learning **Python, Power BI, SQL, and Data Visualization**  
 - 💬 Ask me about anything **Data Analytics**, and I’d be happy to help  
-- 📫 How to reach me: [hardikbajiya@email.com](mailto:hardikbajiya@email.com)  
+- 📫 How to reach me: [hardikbajiya934@email.com](mailto:hardikbajiya934@email.com)  
 
 ---
 
